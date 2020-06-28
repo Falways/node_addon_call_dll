@@ -10,4 +10,5 @@
     4. node-gyp build
     5. js文件中引入插件调用方法(只需要引用生成的xx.node文件其他文件可不要
     6. 重新clean并且构建: node-gyp rebuild
+![alt](https://raw.githubusercontent.com/Falways/node_addon_call_dll/master/result.png)    
     
